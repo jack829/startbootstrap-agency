@@ -4115,16 +4115,19 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-fixed-bottom .navbar-collapse {
     padding-right: 0;
     padding-left: 0;
+    color: #CCFFFF;
   }
 }
 .navbar-fixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
   max-height: 340px;
+  color: #CCFFFF;
 }
 @media (max-device-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
     max-height: 200px;
+    color: #CCFFFF;
   }
 }
 .container > .navbar-header,
@@ -4158,6 +4161,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   right: 0;
   left: 0;
   z-index: 1030;
+  color: #CCFFFF;
 }
 @media (min-width: 768px) {
   .navbar-fixed-top,
@@ -4168,6 +4172,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-fixed-top {
   top: 0;
   border-width: 0 0 1px;
+  color: #CCFFFF;
 }
 .navbar-fixed-bottom {
   bottom: 0;
